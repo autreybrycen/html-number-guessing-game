@@ -1,4 +1,4 @@
-# Guess A Number
+code # Guess A Number
 
 ## Summary
 Let's create a simple number guessing game. The computer will pick a random number between 1 and 100 and you will have to guess that number.
